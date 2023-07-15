@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-// github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimung&show_icons=true&theme=radical)
+<!--ithub stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimung&show_icons=true&theme=vue)
 
 
 <!--
