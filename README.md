@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=choimung&animation=fadeIn&fontSize=90)
 <!--ithub stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimung&show_icons=true&theme=vue)
 
