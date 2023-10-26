@@ -15,7 +15,7 @@
 
 ## 알고리즘 능력
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choi_mung)](https://solved.ac/choi_mung)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choi_mung)](https://solved.ac/choi_mung)-->
 
 알고리즘 문제 해결에는 아직 부족한 부분이 많습니다. 
 
