@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 ## 공부중인 기술 스택
 
