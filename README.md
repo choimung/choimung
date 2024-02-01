@@ -1,6 +1,6 @@
 <div align="center">
 
-## 공부중인 기술 스택
+## [공부중인 기술 스택]
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
